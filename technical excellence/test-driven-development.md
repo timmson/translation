@@ -72,3 +72,4 @@ When we are coaching, a frequent request is help for dealing with our client’s
 On the other hand, when a developer creates a new component (such as a class) with TDD, or refactors a legacy component to be unit-testable, they must break the dependencies of that component so that it is testable in isolation. That requires designing (or refactoring) for dependency injection and increased use of mechanisms for flexibility: interfaces, polymorphism, design patterns, dependency injection frameworks, function pointers, and more.
 
 In this way, TDD encourages lower coupling and simple, flexible configuration—qualities of a good architecture.
+
