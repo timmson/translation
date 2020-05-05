@@ -697,7 +697,7 @@ Mario laughs, “No. I’m done with that. We’re still a normal feature team, 
 
 #### The First Sprint in the New Requirement Area
 
-Their first Sprint is an unusual balance of clarification versus development, but nevertheless quite useful in this extreme situation. They spend almost half the Sprint in clarification with Portia, Gillian, and Zak. That’s because even for this extremely small bite, trying to understand what is wanted in the obscure realm of new government regulations—with no direct access to the politicians and policy writers—required a lot of investigation, reading, discussion, and communicating with . They expect that in future Sprints, the amount of time needed for clarification will soon drop down to a more common 10% or 15% of their Sprint.
+Their first Sprint is an unusual balance of clarification versus development, but nevertheless quite useful in this extreme situation. They spend almost half the Sprint in clarification with Portia, Gillian, and Zak. That’s because even for this extremely small bite, trying to understand what is wanted in the obscure realm of new government regulations—with no direct access to the politicians and policy writers—required a lot of investigation, reading, discussion, and communicating with outsiders. They expect that in future Sprints, the amount of time needed for clarification will soon drop down to a more common 10% or 15% of their Sprint.
 
 And so they also only spend about half the Sprint developing one small item. But the discussion and the learning from coding pays off. Slowly but surely they start to split Dodd-Frank apart—at least the parts that any of them can understand.
 
