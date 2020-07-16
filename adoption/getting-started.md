@@ -61,6 +61,6 @@ The role of project manager ceases to exist in experienced LeSS organizations. T
 
 Most LeSS adoptions can immediately eliminate the project manager role. In some adoptions the role is temporarily still needed. That’s usually when there’s a weak imperfect Definition of Done (hence, Undone work) or cross-product-boundary coordination. In those cases, organizations do not necessarily immediately forgo their project managers.
 
-So sometimes project managers will still be around for awhile. What’s the problem? It’s likely they would regularly interrupt people and introducing conflicting priorities.
+So sometimes project managers will still be around for a while. What’s the problem? It’s likely they would regularly interrupt people and introducing conflicting priorities.
 
 In essence, this recommendation is the same as “only Product Owner gives work” but more specific, and—we’ve discovered—important to make explicit.
